@@ -1,8 +1,8 @@
-## Live Deployment
+## Project Overview
 
-This project is deployed as a real-time machine learning service using IBM watsonx.ai.
+This project predicts student mental health risk using a Decision Tree model and is deployed as an interactive web application using Streamlit.
 
-**API Endpoint:**  
-https://us-south.ml.cloud.ibm.com/ml/v4/deployments/studentmhmodel/predictions?version=2021-05-01
+## Live Demo
 
-The API can be used to send student data and receive instant predictions on mental health risk levels.
+Click here to view the app:  
+https://deepthi-carline05-student-mental-health-p-prediction-app-ygtgmd.streamlit.app/
